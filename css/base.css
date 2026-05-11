@@ -54,10 +54,10 @@ h3 { font-size: var(--fs-lg);  }
 p { line-height: var(--lh-body); }
 
 a {
-  color: inherit;
+  color: rebeccapurple;
   text-decoration-line: underline;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 4px;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 6px;
   text-decoration-color: var(--accent);
   transition: color var(--t-fast) var(--ease),
               text-decoration-color var(--t-fast) var(--ease);
